@@ -9,7 +9,7 @@ An exciting virtual hand cricket game where players can enjoy cricket in a fun a
 - Zahra Abbas  
 
 ## Short Description
-Hand Cricket 2024 is a virtual cricket game where players can bat, bowl, and compete against the computer. The game provides a thrilling experience with features like team selection, difficulty settings, and dynamic gameplay.
+Hand Cricket 2024 is a virtual recreation of the classic hand cricket game that we all loved playing as kids. This project brings the excitement of cricket to your computer, offering dynamic gameplay with features like team selection, multiple game modes, and adjustable difficulty levels. Players can select their favorite international teams, compete in thrilling matches, and enjoy immersive audio effects. With a user-friendly interface and real-time score updates, this game is designed to provide a fun and nostalgic cricketing experience for everyone!
 
 ## Features
 - **Team Selection**: Choose your team from international cricket teams like Pakistan, India, and Australia.  
